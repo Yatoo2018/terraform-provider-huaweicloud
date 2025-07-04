@@ -8,8 +8,6 @@ Use the navigation to the left to read about the available resources.
 -> **NOTE:** You can also use this provider to interact with resources supported by HCSO if the API is compatible
 with HuaweiCloud.
 
--> 
-->
 -> #### 依赖`domain_id`参数，需要为提供者配置该参数。
 ->
 ->  * `domain_id` - (Optional, String) Indicates the domain ID. Specifies the domain ID in which to obtain the role. If omitted, the provider-level domain ID will be used.
